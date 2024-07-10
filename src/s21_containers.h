@@ -1,0 +1,12 @@
+#ifndef SRC_S21_CONTAINERS_H_
+#define SRC_S21_CONTAINERS_H_
+
+#include "s21_containers/s21_list.h"
+#include "s21_containers/s21_vector.h"
+#include "s21_containers/s21_stack.h"
+#include "s21_containers/s21_queue.h"
+#include "s21_containers/s21_set.h"
+#include "s21_containers/s21_map.h"
+
+
+#endif  // SRC_S21_CONTAINERS_H_
